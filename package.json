@@ -1,0 +1,23 @@
+{
+  "name": "contractflow-marketing-react",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite --host",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "react": "18.2.0",
+    "react-dom": "18.2.0"
+  },
+  "devDependencies": {
+    "vite": "^5.4.21"
+  },
+  "description": "Estrutura convertida a partir do arquivo estático original para um pequeno projeto React (Vite).",
+  "main": "index.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
