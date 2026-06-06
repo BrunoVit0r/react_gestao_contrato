@@ -3,7 +3,6 @@ import Navbar from './components/Navbar'
 import Hero from './components/Hero'
 import LogosBar from './components/LogosBar'
 import Benefits from './components/Benefits'
-import Problems from './components/Problems'
 import HowItWorks from './components/HowItWorks'
 import CTASection from './components/CTASection'
 import Footer from './components/Footer'
@@ -25,7 +24,6 @@ export default function App() {
       <Hero />
       <LogosBar />
       <Benefits />
-      <Problems />
       <HowItWorks />
       <CTASection />
       <Footer />

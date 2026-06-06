@@ -31,29 +31,6 @@ export const benefits = [
     }
 ];
 
-export const problems = [
-    {
-        icon: "bi-exclamation-triangle",
-        title: "Contratos espalhados em planilhas e e-mails",
-        desc: "Sem centralização, você perde visibilidade sobre prazos, renovações e obrigações. O risco de multas e descumprimentos é exponencial."
-    },
-    {
-        icon: "bi-clock-history",
-        title: "Semanas para fechar um contrato simples",
-        desc: "Processo manual com múltiplas versões, revisões por e-mail e assinaturas presenciais. Cada dia de atraso custa dinheiro e oportunidades."
-    },
-    {
-        icon: "bi-x-octagon",
-        title: "Erros jurídicos que invalidam contratos",
-        desc: "Cláusulas desatualizadas, dados inconsistentes e falta de validação automática expõem sua empresa a litígios e prejuízos milionários."
-    },
-    {
-        icon: "bi-eye-slash",
-        title: "Zero visibilidade de risco e compliance",
-        desc: "Sem métricas, você não sabe quantos contratos estão próximos do vencimento, quais têm cláusulas críticas ou onde estão os gargalos."
-    }
-];
-
 export const steps = [
     {
         num: "01",
