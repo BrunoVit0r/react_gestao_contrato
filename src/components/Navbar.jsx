@@ -22,9 +22,6 @@ export default function Navbar({ scrolled }) {
               <a className="nav-link" href="#beneficios" onClick={() => setIsOpen(false)}>Benefícios</a>
             </li>
             <li className="nav-item">
-              <a className="nav-link" href="#problemas" onClick={() => setIsOpen(false)}>Desafios</a>
-            </li>
-            <li className="nav-item">
               <a className="nav-link" href="#como-funciona" onClick={() => setIsOpen(false)}>Como Funciona</a>
             </li>
             <li className="nav-item">
